@@ -1,0 +1,46 @@
+
+
+.above-sec{
+   margin-left: 10vw;
+   margin-top: 10vh;
+   width: 80vw;
+   color: rgb(25, 175, 230);
+   font-weight: bold;
+   font-size: 20px;
+
+}
+
+.below-sec{
+   width: 80vw;
+   margin-left: 10vw;
+   margin-top: 8vh;
+   font-weight: bold;
+   font-size: 20px;
+   color: rgb(25, 175, 230);
+
+
+}
+#addMovieBtn{
+   margin-top: 3vh;
+}
+
+.card{
+   margin-top: 5vh;
+   width: 80vw;
+   margin-left: 10vw;
+}
+
+ul{
+   list-style-type: none;
+   font-size: 30px;
+   font-weight: bold;
+   color: rgb(25, 175, 230);
+
+}
+
+.buttons{
+   background-color: rgb(25, 175, 230);
+   border-radius: 20px;
+   border-color:rgb(25, 175, 230);
+   font-size: 20px;
+}
